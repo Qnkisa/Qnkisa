@@ -3,6 +3,9 @@
 - I’m currently working on creating Web Applications.
 - I’m currently learning React.
 
+### Certifiications:
+• Javascript/React/Redux certificate: https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures
+
 ### Contact me:
 
 <a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
