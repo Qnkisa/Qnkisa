@@ -1,58 +1,3 @@
-<style>
-body {
-font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-background-color: #f5f5f5;
-}
-
-.container {
-max-width: 800px;
-margin: 0 auto;
-padding: 20px;
-}
-
-h1 {
-font-size: 28px;
-margin: 20px 0;
-text-align: center;
-}
-
-ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
-
-li {
-margin: 10px 0;
-font-size: 18px;
-}
-
-li span {
-margin-right: 10px;
-}
-
-table {
-width: 100%;
-border-collapse: collapse;
-margin-top: 20px;
-}
-
-td {
-padding: 10px;
-}
-
-a {
-text-decoration: none;
-color: inherit;
-}
-
-img {
-vertical-align: middle;
-}
-</style>
-
 <div class="container">
       <h1>About me:</h1>
       <ul>
@@ -65,9 +10,9 @@ vertical-align: middle;
         <li><span>🏆</span> Responsive Web Design Certificate: <a href="https://www.freecodecamp.org/certification/Yanislav/responsive-web-design"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original.svg" width="30" height="30"></a></li>
       </ul>
       <h1>Contact me:</h1>
-      <ul>
-        <li><a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a></li>
-      </ul>
+      
+        <a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
+      
       <h1>Toolset:</h1>
   
   <table>
