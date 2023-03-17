@@ -5,6 +5,7 @@
 
 ### Certifiications:
 • Javascript Algorithms and Data Structures Certificate: https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures
+
 • Responsive Web Design Certificate: https://www.freecodecamp.org/certification/Yanislav/responsive-web-design
 
 ### Contact me:
