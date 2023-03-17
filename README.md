@@ -1,23 +1,76 @@
-### About me:
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f5f5f5;
+}
 
-- I’m currently working on creating Web Applications.
-- I’m currently learning React.
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
 
-### Certifiications:
-• Javascript Algorithms and Data Structures Certificate: https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures
+h1 {
+font-size: 28px;
+margin: 20px 0;
+text-align: center;
+}
 
-• Responsive Web Design Certificate: https://www.freecodecamp.org/certification/Yanislav/responsive-web-design
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
 
-### Contact me:
+li {
+margin: 10px 0;
+font-size: 18px;
+}
 
-<a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
+li span {
+margin-right: 10px;
+}
 
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 20px;
+}
 
+td {
+padding: 10px;
+}
 
+a {
+text-decoration: none;
+color: inherit;
+}
 
-### Toolset:
+img {
+vertical-align: middle;
+}
+</style>
 
-<table>
+<div class="container">
+      <h1>About me:</h1>
+      <ul>
+        <li><span>👨‍💻</span> 2+ years of web development experience</li>
+        <li><span>📚</span> Currently learning React</li>
+      </ul>
+      <h1>Certifications:</h1>
+      <ul>
+        <li><span>🏆</span> Javascript Algorithms and Data Structures Certificate: <a href="https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="30" height="30"></a></li>
+        <li><span>🏆</span> Responsive Web Design Certificate: <a href="https://www.freecodecamp.org/certification/Yanislav/responsive-web-design"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original.svg" width="30" height="30"></a></li>
+      </ul>
+      <h1>Contact me:</h1>
+      <ul>
+        <li><a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a></li>
+      </ul>
+      <h1>Toolset:</h1>
+  
+  <table>
   <tr>
     <td>Programming/Frontend</td>
     <td>
