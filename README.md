@@ -9,13 +9,6 @@
         <li><span>🏆</span> Javascript Algorithms and Data Structures Certificate: <a href="https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="30" height="30"></a></li>
         <li><span>🏆</span> Responsive Web Design Certificate: <a href="https://www.freecodecamp.org/certification/Yanislav/responsive-web-design"  target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original.svg" width="30" height="30"></a></li>
       </ul>
-      <h1>Contact me:</h1>
-      <ul style="list-style:none;">
-            <li><a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a></li>
-      </ul>
-      
-      
-      
       <h1>Toolset:</h1>
   
   <table>
