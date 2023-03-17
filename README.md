@@ -10,8 +10,7 @@
         <li><span>🏆</span> Responsive Web Design Certificate: <a href="https://www.freecodecamp.org/certification/Yanislav/responsive-web-design"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original.svg" width="30" height="30"></a></li>
       </ul>
       <h1>Contact me:</h1>
-      
-        <a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
+      <a href="https://www.instagram.com/_yanislavangelov/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
       
       <h1>Toolset:</h1>
   
