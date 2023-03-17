@@ -4,7 +4,7 @@
 - I’m currently learning React.
 
 ### Certifiications:
-• Javascript certificate: https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures
+• Javascript Algorithms and Data Structures certificate: https://www.freecodecamp.org/certification/fcc4664bf82-7381-4a26-b24c-0d4439583ac6/javascript-algorithms-and-data-structures
 
 ### Contact me:
 
