@@ -1,8 +1,7 @@
 <div class="container">
       <h1>About me:</h1>
       <ul>
-        <li><span>👨‍💻</span> 2+ years of web development experience</li>
-        <li><span>📚</span> Currently learning React</li>
+        <li><span>👨‍💻</span> 3+ years of web development experience</li>
       </ul>
       <h1>Certifications:</h1>
       <ul>
